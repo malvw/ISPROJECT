@@ -1,0 +1,23 @@
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: pink;
+    text-decoration: underline;
+    
+}
+ol{
+    font-style: italic;
+    font-stretch: expanded;
+}
+h2{
+    font-weight: 600;
+}
+
+h5{
+    text-align: center;
+    color: rgb(235, 152, 235);
+}
+
+h6{
+    color: white;
+    font-style: oblique;
+}

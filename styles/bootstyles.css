@@ -1,0 +1,41 @@
+h3{
+    color: navy;
+    text-align: center;
+}
+.tabhead{
+    width: 100%;
+    top: 0px;
+    height: 100px;
+    left: 0px;
+    right: 0px;
+    text-align: right;
+    background-color: azure;
+    padding-bottom: 10px;
+    resize: horizontal;
+    
+}
+.tabmain{
+    resize: horizontal;
+    resize: vertical;
+    width: 100%;
+    top: 50px;
+    height: max-content;
+    background-color: gainsboro;
+    bottom: 30px;
+    text-align: center;
+}
+.tabfoot{
+    width: 100%;
+    bottom: 0px;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: azure;
+    resize: horizontal;
+}
+
+.tableauPlaceholder{
+    width: 50%;
+    padding: 50px;
+}
